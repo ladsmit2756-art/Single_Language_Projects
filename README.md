@@ -1,105 +1,78 @@
 <div align="center">
 
-# 🎓 Student Management System in C
+# 💻 Single Language Projects
 
-### 📚 Efficient Student Record Management using C Programming
-
-<img width="1536" height="1024" alt="ChatGPT Image Jun 16, 2026, 06_43_27 PM" src="https://github.com/user-attachments/assets/5964b871-bd46-41f8-a2dc-466965833301" />
+### 🚀 Building Strong Programming Fundamentals One Project at a Time
 
 <br>
-<br>
 
-![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![Project](https://img.shields.io/badge/Project-Student%20Management-orange?style=for-the-badge)
-![File%20Handling](https://img.shields.io/badge/File-Handling-red?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-Portfolio-blue?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Languages-C%20|%20C%2B%2B%20|%20JavaScript-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-orange?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Open%20Source-black?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🚀 Compilation
+# 🎓 Project 1: Student Management System (C)
 
-```bash
-gcc main.c student.c -o sms
-```
+<div align="center">
 
----
+### 📚 Efficient Student Record Management using C Programming
 
-## ▶️ Run The Application
+<img width="1536" height="1024" alt="ChatGPT Image Jun 16, 2026, 06_43_27 PM" src="https://github.com/user-attachments/assets/5964b871-bd46-41f8-a2dc-466965833301" />
 
-```bash
-./sms
-```
+<br><br>
 
----
+![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![Project](https://img.shields.io/badge/Project-Student%20Management-orange?style=for-the-badge)
+![File Handling](https://img.shields.io/badge/File-Handling-red?style=for-the-badge)
 
-## 🌟 Project Overview
+</div>
 
-This project is a **console-based Student Management System** developed in **C Programming**. It enables efficient management of student records through file handling and structured programming concepts.
+## 🌟 Overview
 
-The application demonstrates practical implementation of:
-
-* 📂 File Handling
-* 🏗 Structures
-* ⚙ Functions
-* 🔍 Searching Operations
-* 📊 Student Record Management
-  
----
-
-## 📚 Learning Outcomes
-
-✔ Structures in C
-
-✔ Modular Programming
-
-✔ File Handling
-
-✔ Searching Techniques
-
-✔ Git & GitHub Workflow
-
-✔ Project Organization
+A console-based Student Management System developed using **C Programming**. The project demonstrates file handling, structures, modular programming, and student record management.
 
 ---
 
 ## ✨ Features
 
-| Feature               | Description                           |
-| --------------------- | ------------------------------------- |
-| ➕ Add Student         | Add new student records               |
-| 👀 View Students      | Display all student records           |
-| 🔎 Search Student     | Search by Student ID                  |
-| 🏆 Find Topper        | Display highest-scoring student       |
-| 💾 Persistent Storage | Store records permanently using files |
+| Feature               | Description                          |
+| --------------------- | ------------------------------------ |
+| ➕ Add Student         | Add new student records              |
+| 👀 View Students      | Display all student records          |
+| 🔍 Search Student     | Search by Student ID                 |
+| 🏆 Find Topper        | Display highest-scoring student      |
+| 💾 Persistent Storage | Save records permanently using files |
 
 ---
 
 ## 🛠 Technologies Used
 
-| Technology           | Purpose             |
-| -------------------- | ------------------- |
-| C Programming        | Core Development    |
-| Structures           | Data Management     |
-| Functions            | Modular Programming |
-| Binary File Handling | Data Persistence    |
+* C Programming
+* Structures
+* Functions
+* Binary File Handling
 
 ---
 
 ## 📂 Project Structure
 
-StudentManagementSystem/ 
-│ 
-├── main.c 
-├── student.c 
-├── student.h 
-├── students.dat 
+```text
+StudentManagementSystem/
+├── main.c
+├── student.c
+├── student.h
+├── students.dat
 └── README.md
+```
 
 ---
 
-## 🚀 Compilation
+## 🚀 Compile
 
 ```bash
 gcc main.c student.c -o sms
@@ -107,7 +80,7 @@ gcc main.c student.c -o sms
 
 ---
 
-## ▶️ Run The Application
+## ▶️ Run
 
 ```bash
 ./sms
@@ -117,46 +90,158 @@ gcc main.c student.c -o sms
 
 ## 📸 Project Screenshots
 
+<div align="center">
+
 ### 🏠 Main Menu
 
 <img width="500" height="400" alt="Screenshot 2026-06-16 180425" src="https://github.com/user-attachments/assets/2bc777d1-d44d-4931-a8da-63b0bb7c7e15" />
 
-
----
+<br><br>
 
 ### ➕ Add Student
 
 <img width="500" height="400" alt="Screenshot 2026-06-16 180545" src="https://github.com/user-attachments/assets/2754a0af-0c2b-4a77-bf5a-189b0ecc497f" />
 
+<br><br>
 
----
-
-### 🔎 Search Student
+### 🔍 Search Student
 
 <img width="500" height="400" alt="Screenshot 2026-06-16 180629" src="https://github.com/user-attachments/assets/2b5c6aeb-81e5-4b80-993a-77e8eb8166b3" />
 
-<br>
-
-
----
+<br><br>
 
 ### 🏆 Find Topper
+
 <img width="500" height="400" alt="Screenshot 2026-06-16 180653" src="https://github.com/user-attachments/assets/39fbae64-3ee6-4161-a9aa-2dfa4f78afa7" />
 
+</div>
 
 ---
 
-## 🔗 Useful Links
+# 📚 Project 2: Library Management System (C++)
+
+<div align="center">
+
+### 📖 Book Management using Object-Oriented Programming
+
+<img width="1536" height="1024" alt="Library Management Banner" src="YOUR_LIBRARY_BANNER_LINK">
+
+<br><br>
+
+![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![Project](https://img.shields.io/badge/Project-Library%20Management-orange?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-Classes%20%26%20Objects-purple?style=for-the-badge)
+
+</div>
+
+## 🌟 Overview
+
+A console-based Library Management System developed using **C++**. The project demonstrates Object-Oriented Programming principles, STL concepts, and file handling for efficient library record management.
+
+---
+
+## ✨ Features
+
+| Feature         | Description              |
+| --------------- | ------------------------ |
+| 📖 Add Books    | Add new books            |
+| 👀 View Books   | Display all books        |
+| 🔍 Search Books | Search by Book ID        |
+| 📤 Issue Books  | Issue books              |
+| 📥 Return Books | Return books             |
+| 💾 File Storage | Save records permanently |
+
+---
+
+## 🛠 Technologies Used
+
+* C++
+* Object-Oriented Programming
+* Classes & Objects
+* STL
+* File Handling
+
+---
+
+## 📂 Project Structure
+
+```text
+LibraryManagementSystem/
+├── main.cpp
+├── Library.cpp
+├── Library.h
+├── books.dat
+└── README.md
+```
+
+---
+
+## 🚀 Compile
+
+```bash
+g++ main.cpp Library.cpp -o library
+```
+
+---
+
+## ▶️ Run
+
+```bash
+./library
+```
+
+---
+
+## 📸 Project Screenshots
+
+<div align="center">
+
+### 📚 Main Menu
+
+<img width="500" src="LIBRARY_MAIN_MENU_LINK">
+
+<br><br>
+
+### ➕ Add Book
+
+<img width="500" src="ADD_BOOK_LINK">
+
+<br><br>
+
+### 🔍 Search Book
+
+<img width="500" src="SEARCH_BOOK_LINK">
+
+<br><br>
+
+### 📤 Issue Book
+
+<img width="500" src="ISSUE_BOOK_LINK">
+
+<br><br>
+
+### 📥 Return Book
+
+<img width="500" src="RETURN_BOOK_LINK">
+
+</div>
+
+---
+
+# 🔗 Useful Links
 
 📜 Documentation: https://drive.google.com/drive/folders/15sCP5F17UsLtwmzIyrwT4oN6v_fsUPzg
 
 💼 LinkedIn Profile: https://www.linkedin.com/in/smit-lad-b2aaa135b
 
+
+
 ---
 
-## 👨‍💻 Developer
+# 👨‍💻 Developer
 
-**Computer Engineering Student**
+### Computer Engineering Student
 
 Interested in:
 
@@ -169,10 +254,8 @@ Interested in:
 
 <div align="center">
 
-## ⭐ If you like this project, don't forget to Star the repository!
+## ⭐ If you like this repository, consider giving it a Star!
 
 <img width="740" height="493" alt="image" src="https://github.com/user-attachments/assets/94223b65-5906-4349-92fc-e9149955c61c" />
 
-
 </div>
-
