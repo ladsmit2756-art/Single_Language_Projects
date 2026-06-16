@@ -89,7 +89,13 @@ The application demonstrates practical implementation of:
 
 ## 📂 Project Structure
 
-<img width="1996" height="4872" alt="diagram" src="https://github.com/user-attachments/assets/e60b7e70-d69a-4f03-923d-eef0853d7c99" />
+StudentManagementSystem/ 
+│ 
+├── main.c 
+├── student.c 
+├── student.h 
+├── students.dat 
+└── README.md
 
 ---
 
