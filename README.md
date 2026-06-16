@@ -18,6 +18,22 @@
 
 ---
 
+## 🚀 Compilation
+
+```bash
+gcc main.c student.c -o sms
+```
+
+---
+
+## ▶️ Run The Application
+
+```bash
+./sms
+```
+
+---
+
 ## 🌟 Project Overview
 
 This project is a **console-based Student Management System** developed in **C Programming**. It enables efficient management of student records through file handling and structured programming concepts.
@@ -29,6 +45,22 @@ The application demonstrates practical implementation of:
 * ⚙ Functions
 * 🔍 Searching Operations
 * 📊 Student Record Management
+  
+---
+
+## 📚 Learning Outcomes
+
+✔ Structures in C
+
+✔ Modular Programming
+
+✔ File Handling
+
+✔ Searching Techniques
+
+✔ Git & GitHub Workflow
+
+✔ Project Organization
 
 ---
 
@@ -116,37 +148,9 @@ gcc main.c student.c -o sms
 
 ---
 
-## 🎥 Project Demonstration
-
-▶️ YouTube Video:
-
-🔗 https://youtube.com/@bytesmit?si=QSYgPKBOcR9h5jBF
-
----
-
-## 📚 Learning Outcomes
-
-✔ Structures in C
-
-✔ Modular Programming
-
-✔ File Handling
-
-✔ Searching Techniques
-
-✔ Git & GitHub Workflow
-
-✔ Project Organization
-
----
-
 ## 🔗 Useful Links
 
-📂 Repository: https://github.com/ladsmit2756-art/Single_Language_Projects
-
 📜 Documentation: https://drive.google.com/drive/folders/15sCP5F17UsLtwmzIyrwT4oN6v_fsUPzg
-
-🎥 YouTube Channel: https://youtube.com/@bytesmit?si=QSYgPKBOcR9h5jBF
 
 💼 LinkedIn Profile: https://www.linkedin.com/in/smit-lad-b2aaa135b
 
